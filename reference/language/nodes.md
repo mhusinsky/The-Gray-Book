@@ -56,7 +56,7 @@ They always have a "State Output" pin that is visually connected to the correspo
 
 ## Optional Pins on Nodes
 
-Nodes can have Pins that are not visible by default. Rightclick a Node and press Configure to show a little inspector that allows you to show/hide optional Pins.
+Nodes can have Pins that are not visible by default. Rightclick a Node and press Configure to show a little inspector that allows you to show/hide optional Pins. For more info Pin configuration see: [Pin visibility for inputs and outputs](operations.md#visibility-for-inputs-and-outputs).
 
 ## Pin groups
 
